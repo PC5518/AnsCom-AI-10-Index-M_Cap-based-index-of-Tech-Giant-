@@ -24,7 +24,9 @@ This Python-based application uses the Yahoo Finance API to:
 - yfinance
 - pandas
 - matplotlib
-
+## FINAL OUTPUT AND RESULT :
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/a8f95635-e6bb-4562-984c-91185b5da6d3" />
+Thank you 
 ## ⚙ How to Run
 
 ```bash
