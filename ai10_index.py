@@ -3,7 +3,7 @@ from matplotlib.animation import FuncAnimation
 import yfinance as yf
 import numpy as np
 from datetime import datetime
-
+# THIS CODE IS PROVIDED WITH ALL THE COMMENT ACCORDINGLY IN ORDeR TO GEt THE LOGIC
 # --- CONFIGURATION ---
 TICKERS = ['NVDA', 'MSFT', 'AAPL', 'GOOGL', 'AVGO', 'META', 'NFLX', 'AMZN', 'TSLA', 'AMD']
 INDEX_NAME = "AnsCom AI10 Index"
