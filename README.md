@@ -27,10 +27,4 @@ This Python-based application uses the Yahoo Finance API to:
 ## FINAL OUTPUT AND RESULT :
 <img width="1731" height="861" alt="image" src="https://github.com/user-attachments/assets/9b652729-dec2-4a7b-a972-a87325f44c6e" />
 Thank you 
-## ⚙ How to Run
 
-```bash
-git clone https://github.com/yourusername/custom-stock-index.git
-cd custom-stock-index
-pip install -r requirements.txt
-python main.py
